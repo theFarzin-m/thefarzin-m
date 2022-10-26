@@ -4,12 +4,15 @@
 💡 &nbsp;I want to learen every day.\
 
 <br>
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 <br>
-<br>
-<br>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![python](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python)&nbsp;
+![django](https://img.shields.io/badge/-django-05122A?style=for-the-badge&logo=django&logoColor=purple)&nbsp;
+![flask](https://img.shields.io/badge/-flask-05122A?style=for-the-badge&logo=flask)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;

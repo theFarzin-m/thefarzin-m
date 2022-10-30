@@ -22,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### certificates
-<img src="cs50x.png" height="250px">&nbsp; &nbsp;<img src="cert-CT-DVGYKCRK.jpg" height="200px">&nbsp;&nbsp; <img src="cert-CT-TZJWS3SE.jpg" height="200px">
+<img src="cs50x.png" height="250px">&nbsp; &nbsp;<img src="cert-CT-DVGYKCRK.jpg" height="200px">&nbsp;&nbsp; <img src="cert-CT-TZJWS3SE.png" height="200px">
 
 ### contact with me
 <p align="left">

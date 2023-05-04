@@ -1,5 +1,5 @@
 # 💫 About Me:
-👱‍ ♂️I am young and intelligent<br>👷‍ ♂️I am passionate and hardworking<br>✋ I am social and progressive<br>👨‍ 🎓I learn fast<br>🤴 I am awesome<br>💎 I am Farzin
+👱‍ I am young and intelligent<br>👷‍ I am passionate and hardworking<br>✋ I am social and progressive<br>🎓 I learn fast<br>🤴 I am awesome<br>💎 I am Farzin
 
 
 ## 🌐 Socials:
